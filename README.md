@@ -9,11 +9,11 @@
    ![image](https://user-images.githubusercontent.com/26705935/40484585-0efdf7c0-5f97-11e8-9265-80ac5a421b89.png)
    
 ## 2. Environment
- - language : C
+ - language : C++
  - IDE : Microsoft Visual studio 2017
  
 ## 3. Result
- - 결과 표
+ - 실행 결과 표
   
    ![image](https://user-images.githubusercontent.com/26705935/40484756-a6240dba-5f97-11e8-8e2f-801fa67896d9.png)
   
