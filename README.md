@@ -1,6 +1,9 @@
 # Solving-8-puzzle-problems-using-BFS
  - 2017년 1학기 성균관대학교 이지형 교수님 인공지능 수업 1번째 과제
  - 8-puzzle problem 을 search strategy인 DFS, BFS를 이용하여 푸는 문제
+ 
+ - 2017 1st semester Sungkyunkwan University professor Jee Hyong Lee's Artificial Intelligence class, 1st assignment
+ - Solving 8-puzzle problem using search strategy DFS, BFS
 
 ## 1. Problem
  - 다음 4가지의 initial state를 시작으로 8-puzzle problem을 풀어라.
