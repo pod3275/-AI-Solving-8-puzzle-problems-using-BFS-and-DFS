@@ -21,5 +21,5 @@
   
  - DFS는 탐색 경과 시간이 매우 방대하여, 탐색 횟수에 한계를 지정하였다. 모두 100,000번을 탐색 한계로 지정하였고, 그 결과 BFS는 solution을 찾았지만 DFS는 탐색 시간 1분을 넘기고 나서도 solution을 찾지 못하였다.
  
- ## 4. Future work
+## 4. Future work
  - A* algorithm을 이용하여 8-puzzle problem을 푸는 코드도 작성하여 업도르할 것이다.
